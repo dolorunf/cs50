@@ -1,0 +1,32 @@
+[
+  {
+    "amount": 45678,
+    "category": "Fvb",
+    "description": " bfg"
+  },
+  {
+    "amount": 4568,
+    "category": "Xcvbb",
+    "description": "gfg"
+  },
+  {
+    "amount": 48502,
+    "category": "Food",
+    "description": "breakfast"
+  },
+  {
+    "amount": 6000,
+    "category": "Transport",
+    "description": "work"
+  },
+  {
+    "amount": 5000,
+    "category": "Trasport",
+    "description": "bus"
+  },
+  {
+    "amount": 6000,
+    "category": "Transport",
+    "description": "bus"
+  }
+]

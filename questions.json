@@ -1,0 +1,102 @@
+[
+    {
+        "question": "What is the largest planet in our solar system?",
+        "options": ["Earth", "Mars", "Jupiter", "Venus"],
+        "answer": "Jupiter"
+    },
+    {
+        "question": "How many days are there in a week?",
+        "options": ["5", "6", "7", "8"],
+        "answer": "7"
+    },
+    {
+        "question": "What is the capital of Nigeria?",
+        "options": ["Lagos", "Abuja", "Kano", "Ibadan"],
+        "answer": "Abuja"
+    },
+    {
+        "question": "Which animal is known as the king of the jungle?",
+        "options": ["Tiger", "Lion", "Elephant", "Gorilla"],
+        "answer": "Lion"
+    },
+    {
+        "question": "What is 10 × 5?",
+        "options": ["15", "50", "55", "100"],
+        "answer": "50"
+    },
+    {
+        "question": "Which ocean is the largest?",
+        "options": ["Atlantic Ocean", "Indian Ocean", "Pacific Ocean", "Arctic Ocean"],
+        "answer": "Pacific Ocean"
+    },
+    {
+        "question": "How many legs does a spider have?",
+        "options": ["6", "8", "10", "12"],
+        "answer": "8"
+    },
+    {
+        "question": "Which planet is known as the Red Planet?",
+        "options": ["Mars", "Venus", "Saturn", "Mercury"],
+        "answer": "Mars"
+    },
+    {
+        "question": "What is the chemical symbol for water?",
+        "options": ["CO2", "H2O", "O2", "NaCl"],
+        "answer": "H2O"
+    },
+    {
+        "question": "How many months are there in a year?",
+        "options": ["10", "11", "12", "13"],
+        "answer": "12"
+    },
+    {
+        "question": "Which continent is Nigeria located in?",
+        "options": ["Asia", "Africa", "Europe", "South America"],
+        "answer": "Africa"
+    },
+    {
+        "question": "What is 100 divided by 10?",
+        "options": ["5", "10", "20", "50"],
+        "answer": "10"
+    },
+    {
+        "question": "Which bird is known for its ability to mimic human speech?",
+        "options": ["Eagle", "Parrot", "Penguin", "Ostrich"],
+        "answer": "Parrot"
+    },
+    {
+        "question": "What is the opposite of hot?",
+        "options": ["Warm", "Cold", "Dry", "Bright"],
+        "answer": "Cold"
+    },
+    {
+        "question": "Which gas do humans need to breathe?",
+        "options": ["Carbon dioxide", "Oxygen", "Hydrogen", "Helium"],
+        "answer": "Oxygen"
+    },
+    {
+        "question": "How many sides does a triangle have?",
+        "options": ["2", "3", "4", "5"],
+        "answer": "3"
+    },
+    {
+        "question": "Which is the fastest land animal?",
+        "options": ["Lion", "Horse", "Cheetah", "Elephant"],
+        "answer": "Cheetah"
+    },
+    {
+        "question": "What is the smallest prime number?",
+        "options": ["0", "1", "2", "3"],
+        "answer": "2"
+    },
+    {
+        "question": "Which instrument has black and white keys?",
+        "options": ["Guitar", "Drum", "Piano", "Violin"],
+        "answer": "Piano"
+    },
+    {
+        "question": "What color do you get when you mix red and blue?",
+        "options": ["Green", "Purple", "Orange", "Yellow"],
+        "answer": "Purple"
+    }
+]
